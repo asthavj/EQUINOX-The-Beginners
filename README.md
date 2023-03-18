@@ -1,3 +1,6 @@
+# STUDENT RESULT MANAGEMENT SYSTEM(SRMS)
+Sounds and spells similar to SMS?well, here the future lies. Using internet to check the result, see our reportcards, checking the duration of our course and which teacher is gonna teach us? All at just one web-application makes our life easy to not go to schools/universities and attend those boring PTM with our parents and get scolded by teachers.
+
 # Abstract
 It has been shown that as technology advanced and the effect of computers and the internet grew, it had an impact on a number of different industries. And today, computers are used to perform practically all tasks. The key to being in business is to swiftly transform knowledge into a product that customers desire, and nowadays, all of this is accomplished utilizing computers, software, and information systems. And the education system, which focuses on training the next generation of talent for the future, is unquestionably the foundation of civilization. The students' results are created using a spreadsheet programme, printed on paper, declared on a wall, and then saved. The goal of the present project is to develop a web-based student outcome management system that will save time, effort, and money while enhancing security.
 
