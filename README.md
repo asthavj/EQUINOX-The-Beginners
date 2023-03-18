@@ -17,15 +17,13 @@ interface for data entry and retrieval in student result management, PIL (Python
 6. **Create, Display, Update and Delete** student's exam scores
 7. Calculate student's total marks and percentage
 8. Display individual student's result
-9. Display course-wise result
-10. Display overall result
 
 ## Extra added features
 * **Search Option** - This option has been provided for smooth functioning of the project, we can easily search any course, student data. In each panel search option has been provided.
 * **Clear Option** - It will clear all the deatils in one go, user will not have to press backspace again and again to remove the deatils, which sums up our time-efficient factor but it will remain stored in the database.
 * **Flashing Message** - This option will flash a message if user has input invalid details as well as if no data has been input.
 
-## What we learned
+## What we have learnt
 We learned many new things in python as a beginner, we previously were touched by its base. Now, many new terms like python libraries such as PIL, Tkinters which contributes to make a website look more graphical and user-friendly.This project made us confident in all the ways.
 
 ## Shortcomings of Student Result Management System
@@ -34,6 +32,8 @@ We learned many new things in python as a beginner, we previously were touched b
 * **Security Issue** – Internet hacking is a concern for all online platforms. The same concern lies for the result management platforms as well. Hackers can manipulate or steal students’ data from the system, resulting in chaos and disruption to the program. The exam papers may also get leaked and the institute might be forced to redesign the question sheet
 
 ## Future Range
-It will reduce the manual work of teachers, saving pages to make reportcards, hence saving trees, creating a better and healthy environment. It'll help many people to work on this idea and make their on startup of websites having student result management and earn money. For Eg: devfolio, where we get to know about all the hackathons all in one, just same for this, a user will handle result databases of all the universities/schools.
+It will reduce the manual work of teachers, saving pages to make reportcards, hence saving trees, creating a better and healthy environment. It'll help many people to work on this idea and make their on startup of websites having student result management and earn money. For Eg: devfolio, where we get to know about all the hackathons all in one, just same for this, a user will handle result databases of all the universities/schools.In future, it will be more enhanced as more new feature can be added such as:
+* addition of course-wise result.
+* Displaying overall result.
 
 
