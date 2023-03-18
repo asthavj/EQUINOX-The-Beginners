@@ -23,13 +23,12 @@ interface for data entry and retrieval in student result management, PIL (Python
 ## What we learned
 We learned many new things in python as a beginner, we previously were touched by its base. Now, many new terms like python libraries such as PIL, Tkinters which contributes to make a website look more graphical and user-friendly.This project made us confident in all the ways.
 
-## Future Range
-It will reduce the manual work of teachers, saving pages to make reportcards, hence saving trees, creating a better and healthy environment. It'll help many people to work on this idea and make their on startup of websites having student result management and earn money. For Eg: devfolio, where we get to know about all the hackathons all in one, just same for this, a user will handle result databases of all the universities/schools.
-
-
 ## Shortcomings of Student Result Management System
 * **Technical Issues** – As a by-product of technology, the management systems are likely to face technical glitches that are a part of the internet world. There might be server issues that stop the platform from running smoothly or running at all. Connectivity issues are also a concern, especially if the user belongs to a remote area.
 * **Navigation Issue** – As online platforms are relatively new to many learners, the students may find it difficult to navigate the application. The more features added to the application, the more likely are the students to get lost in the process of locating things on the platform.
 * **Security Issue** – Internet hacking is a concern for all online platforms. The same concern lies for the result management platforms as well. Hackers can manipulate or steal students’ data from the system, resulting in chaos and disruption to the program. The exam papers may also get leaked and the institute might be forced to redesign the question sheet
+
+## Future Range
+It will reduce the manual work of teachers, saving pages to make reportcards, hence saving trees, creating a better and healthy environment. It'll help many people to work on this idea and make their on startup of websites having student result management and earn money. For Eg: devfolio, where we get to know about all the hackathons all in one, just same for this, a user will handle result databases of all the universities/schools.
 
 
