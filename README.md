@@ -20,7 +20,7 @@ interface for data entry and retrieval in student result management, PIL (Python
 9. Display course-wise result
 10. Display overall result
 
-## Extra added feature
+## Extra added features
 * **Search Option** - This option has been provided for smooth functioning of the project, we can easily search any course, student data. In each panel search option has been provided.
 * **Clear Option** - It will clear all the deatils in one go, user will not have to press backspace again and again to remove the deatils, which sums up our time-efficient factor but it will remain stored in the database.
 * **Flashing Message** - This option will flash a message if user has input invalid details as well as if no data has been input.
