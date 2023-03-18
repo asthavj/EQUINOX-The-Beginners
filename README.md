@@ -6,7 +6,7 @@ Student Result Management system is **web application** that allows students to 
 
 ## How we built it
 This **web application** has been programmed using python language. Different python libraries have been used such as Tkinter Tkinter is used to give user friendly
-interface for data entry and retrieval in student result management, PIL (Python Imaging Library) a powerful python image processing library to process and manipulate images.Here PIL is used for generating charts and graph to represent student performance data,and Split library in SQL.
+interface for data entry and retrieval in student result management, PIL (Python Imaging Library) a powerful python image processing library to process and manipulate images.Here PIL is used for generating charts and graph to represent student performance data,and  sqlite3 is a python library that provides a lightweight disk-based database that doesn't require a separate server process and allows accessing the database using a nonstandard variant of the SQL query language..
 
 ## Feature List
 1. **Create, Display, Update and Delete** student records.
