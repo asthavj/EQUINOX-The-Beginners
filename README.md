@@ -35,5 +35,7 @@ We learned many new things in python as a beginner, we previously were touched b
 It will reduce the manual work of teachers, saving pages to make reportcards, hence saving trees, creating a better and healthy environment. It'll help many people to work on this idea and make their on startup of websites having student result management and earn money. For Eg: devfolio, where we get to know about all the hackathons all in one, just same for this, a user will handle result databases of all the universities/schools.In future, it will be more enhanced as more new feature can be added such as:
 * addition of course-wise result.
 * Displaying overall result.
+* Displaying the overall average marks and percentage.
+* Displaying the overall exam scores.
 
 
